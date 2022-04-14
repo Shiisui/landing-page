@@ -143,6 +143,9 @@ a {
     width: 160px;
     border-radius: 16px;
 }
+.imgs div {
+    max-width: 170px;
+}
 
 .imgs {
     display: flex;
@@ -152,4 +155,9 @@ a {
 
 .section2 .mid {
     flex: 3;
+}
+.imgs div div {
+    text-align: center;
+    font-size: 18px;
+    color: gray;
 }
