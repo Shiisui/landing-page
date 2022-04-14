@@ -88,16 +88,14 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
+    flex: 4;
 }
 
 
-.left, .right, .mid {
+.left, .right {
     flex: 1;
 }
 
-.mid {
-    flex: 3;
-}
 
 .signup, .signup a {
     background-color: #3882F6;
