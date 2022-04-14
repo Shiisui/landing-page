@@ -129,7 +129,7 @@ a {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
-    padding: 30px 0;
+    padding: 60px 0;
 }
 
 
@@ -139,14 +139,15 @@ a {
 
 .imgs img {
     border:5px solid #3882F6;
-    height: 140px;
-    width: 140px;
-    border-radius: 8px;
+    height: 160px;
+    width: 160px;
+    border-radius: 16px;
 }
 
 .imgs {
     display: flex;
     justify-content: space-around;
+    margin-bottom: 140px;
 }
 
 .section2 .mid {
