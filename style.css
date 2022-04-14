@@ -157,3 +157,8 @@ a {
     font-size: 18px;
     color: rgb(94, 94, 94);
 }
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+}
