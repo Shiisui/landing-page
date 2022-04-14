@@ -48,6 +48,10 @@ a {
 .mainhero {
     display: flex;
     flex-direction: column;
+    
+}
+
+.maintext {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
