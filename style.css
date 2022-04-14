@@ -117,8 +117,6 @@ a {
 .section2 {
     display: flex;
     flex-direction: row;
-    
-    
 }
 
 .title-imgs {
@@ -144,4 +142,13 @@ a {
     height: 140px;
     width: 140px;
     border-radius: 8px;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2 .mid {
+    flex: 3;
 }
