@@ -88,6 +88,10 @@ a {
 }
 
 
-.left, .right {
+.left, .right, .mid {
     flex: 1;
+}
+
+.mid {
+    flex: 3;
 }
