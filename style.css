@@ -167,7 +167,6 @@ a {
 .testimonial {
     display: flex;
     flex-direction: column;
-    max-width: 781px;
 }
 
 .testimonial .text {
