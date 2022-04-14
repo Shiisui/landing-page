@@ -195,12 +195,13 @@ a {
     flex: 3;
 }
 
-.calltoaciton {
+.callaction {
     display: flex;
     background-color: #3882F6;
+    margin: 100px 0;
 }
 
 .section4 {
     display: flex;
-    
+
 }
