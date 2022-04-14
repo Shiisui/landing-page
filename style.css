@@ -149,7 +149,7 @@ a {
 
 .imgs {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 140px;
 }
 
