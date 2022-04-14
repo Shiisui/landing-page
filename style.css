@@ -62,6 +62,8 @@ a {
     color: #E5E7EB;
 }
 
-
+.imgplaceholder {
+    flex: 1;
+}
 
 
