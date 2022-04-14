@@ -48,7 +48,7 @@ a {
 .mainhero {
     display: flex;
     flex-direction: column;
-    flex: 1;
+    
     
 }
 
@@ -64,7 +64,7 @@ a {
 }
 
 .imgplaceholder {
-    flex: 1;
+    
     display: flex;
     text-align: center;
     background-color: grey;
