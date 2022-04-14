@@ -133,10 +133,6 @@ a {
 }
 
 
-.title, .imgs {
-            border: 2px solid red;
-}
-
 .imgs img {
     border:5px solid #3882F6;
     height: 160px;
@@ -159,5 +155,5 @@ a {
 .imgs div div {
     text-align: center;
     font-size: 18px;
-    color: gray;
+    color: rgb(94, 94, 94);
 }
