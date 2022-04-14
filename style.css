@@ -192,16 +192,46 @@ a {
 }
 
 .section4 .mid {
-    flex: 3;
+    flex: 5;
 }
 
 .callaction {
     display: flex;
     background-color: #3882F6;
     margin: 100px 0;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 50px 100px;
 }
 
 .section4 {
     display: flex;
+}
 
+.callaction .title {
+    padding: 0;
+    text-align: left;
+    font-size: 21px;
+}
+
+.callaction .title, .callaction .text {
+    color: white;
+}
+
+.callaction #signup {
+    
+        background-color: #3882F6;
+        border-radius: 8px;
+        border: 2px solid white;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        padding: 5px 12px;
+}
+
+#signup a {
+
+    color: white;
 }
