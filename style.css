@@ -244,3 +244,15 @@ a {
     background-color: #1F2937;
 }
 
+.footer {
+    height: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer div {
+    color: white;
+    text-align: center;
+}
