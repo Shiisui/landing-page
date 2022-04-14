@@ -76,3 +76,6 @@ a {
     align-self: center;
 }
 
+.hero-header {
+    display: flex;
+}
