@@ -45,7 +45,7 @@ a {
     flex-direction: column;
 }
 
-.text {
+.mainhero {
     display: flex;
     flex-direction: column;
     font-size: 48px;
