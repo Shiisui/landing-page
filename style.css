@@ -53,7 +53,6 @@ a {
     margin: 140px 0;
     justify-content: space-between;
     
-    
 }
 
 .mainhero {
@@ -95,9 +94,7 @@ a {
 }
 
 .mid {
-    display: flex;
-    flex-direction: column;
-    background-color: #1F2937;
+    
     flex: 6;
 }
 
