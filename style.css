@@ -146,7 +146,7 @@ a {
 
 .imgs {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .section2 .mid {
