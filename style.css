@@ -190,3 +190,11 @@ a {
     flex: 3;
     margin: 140px 0;
 }
+
+.section4 .mid {
+    flex: 3;
+}
+
+.calltoaciton {
+    display: flex;
+}
