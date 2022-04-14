@@ -192,7 +192,7 @@ a {
 }
 
 .section4 .mid {
-    flex: 5;
+    flex: 7;
 }
 
 .callaction {
@@ -203,7 +203,7 @@ a {
     justify-content: space-around;
     align-items: center;
 
-    padding: 50px 100px;
+    padding: 50px 0;
 }
 
 .section4 {
@@ -213,7 +213,11 @@ a {
 .callaction .title {
     padding: 0;
     text-align: left;
-    font-size: 21px;
+    font-size: 24px;
+}
+
+.callaction .text {
+    font-size: 18px;
 }
 
 .callaction .title, .callaction .text {
@@ -228,7 +232,7 @@ a {
         color: white;
         font-weight: bold;
         font-size: 18px;
-        padding: 5px 12px;
+        padding: 5px 30px;
 }
 
 #signup a {
