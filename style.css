@@ -78,4 +78,5 @@ a {
 
 .hero-header {
     display: flex;
+    flex-direction: column;
 }
