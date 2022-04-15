@@ -141,12 +141,14 @@ a {
 }
 .imgs div {
     max-width: 170px;
+    flex: 0 1 auto;
 }
 
 .imgs {
     display: flex;
     justify-content: space-between;
     margin-bottom: 140px;
+    flex-wrap: wrap;
 }
 
 .section2 .mid {
