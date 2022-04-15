@@ -257,3 +257,12 @@ a {
     text-align: center;
     font-size: large;
 }
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.section1, .section2, .section3 {
+    flex: 1;
+}
