@@ -51,7 +51,8 @@ a {
 .hero {
     display: flex;
     margin: 140px 0;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
     
 }
 
@@ -80,6 +81,8 @@ a {
     text-align: center;
     background-color: rgb(126, 126, 126);
     justify-content: center;
+    min-height: 220px;
+    min-width: 350px;
     
 }
 .imgplaceholder p {
@@ -205,7 +208,7 @@ a {
     justify-content: space-around;
     align-items: center;
 
-    padding: 50px 0;
+    padding: 50px 20px;
 }
 
 .section4 {
