@@ -146,9 +146,10 @@ a {
 
 .imgs {
     display: flex;
-    justify-content: space-between;
+    gap: 30px;
     margin-bottom: 140px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .section2 .mid {
